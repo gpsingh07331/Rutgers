@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
-## **Overview and Funding**
+## **Overview**
     
-Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable decentrilization of money transfer.
+Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable money transfer.<br>
 [Jeremy Allaire](https://www.linkedin.com/in/jeremyallaire/) and [Sean Neville](https://www.linkedin.com/in/seanneville/) founded Circle in 2013. $140 million from investors including Jim Breyer (Facebook), Goldman Sachs, IDG Capital (Baidu, Tencent), General Catalyst (AirBnB, Snapchat) and     Accel Partners backs the company, with its headquarters in Boston, and branches in New York, San Francisco, Dublin, London, and Hong Kong
 
 - #### The foundation
 
-As per the Circle website, When Circle was founded five years ago, founders and many in the crypto community envisioned fiat money and financial contracts executing on top of distributed public network infrastructure, building on open standards that would allow  all to share value as instantly and easily as anyone can access content in web browsers and exchange messages in email and messaging apps. Just as HTTPS, SMTP and SIP enabled free borderless information sharing and communications, crypto assets and blockchain technology will enable us to exchange value and transact with one another in a similar way: instantly, globally, securely and at low cost.
+**As per the Circle website**, 
+> When Circle was founded five years ago, founders and many in the crypto community envisioned fiat money and financial contracts executing on top of distributed public network infrastructure, building on open standards that would allow  all to share value as instantly and easily as anyone can access content in web browsers and exchange messages in email and messaging apps. Just as HTTPS, SMTP and SIP enabled free borderless information sharing and communications, crypto assets and blockchain technology will enable us to exchange value and transact with one another in a similar way: instantly, globally, securely and at low cost.
 
-> "While announcing the launch, Circle founder Allaire said the company was working towards realizing its vision of no distinction between international and domestic money transfers." [PYMNTS.COM](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
+>> "While announcing the launch, Circle founder Allaire said the company was working towards realizing its vision of no distinction between international and domestic money transfers." [PYMNTS.COM](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
 
-A fundamental building block of this vision is the tokenization of fiat currency itself, through what are now referred to as fiat stablecoins. A safe, transparent and trustworthy layer for fiat to operate over open blockchains and within smart contracts is a necessary precondition to the broader and more revolutionary potential of a crypto-powered global economy. USDC aims to meet this need.
+> A fundamental building block of this vision is the tokenization of fiat currency itself, through what are now referred to as fiat stablecoins. A safe, transparent and trustworthy layer for fiat to operate over open blockchains and within smart contracts is a necessary precondition to the broader and more revolutionary potential of a crypto-powered global economy. USDC aims to meet this need.
 The word cryptocurrency itself creates attention and anxiety as the likes of bitcoin did, regulations, scams etc deterred the mainstream to use the digital currency. Circle, with stablecoin backed 1:1 by asset like USD and the founders readiness to work with regulators is envisioning it to become a mainstream digital currency. It has also worked on reducing the friction  and risk for any individual or business to use its Payments & treasury infrastructure.
 
 
