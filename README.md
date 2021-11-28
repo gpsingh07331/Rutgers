@@ -8,7 +8,7 @@ Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable
 * The foundation
 As per the Circle website, When we founded Circle five years ago, we and many in the crypto community envisioned fiat money and financial contracts executing on top of distributed public network infrastructure, building on open standards that would allow us all to share value as instantly and easily as we can access content in web browsers and exchange messages in email and messaging apps. Just as HTTPS, SMTP and SIP enabled free borderless information sharing and communications, crypto assets and blockchain technology will enable us to exchange value and transact with one another in a similar way: instantly, globally, securely and at low cost.
 
-> "While announcing the launch, Circle founder Allaire said the company was working towards realizing its vision of no distinction between international and domestic money transfers."[PYMNTS.COM](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
+> "While announcing the launch, Circle founder Allaire said the company was working towards realizing its vision of no distinction between international and domestic money transfers." [PYMNTS.COM](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
 
 A fundamental building block of this vision is the tokenization of fiat currency itself, through what are now referred to as fiat stablecoins. A safe, transparent and trustworthy layer for fiat to operate over open blockchains and within smart contracts is a necessary precondition to the broader and more revolutionary potential of a crypto-powered global economy. USDC aims to meet this need.
 The word cryptocurrency itself creates attention and anxiety as the likes of bitcoin did, regulations, scams etc deterred the mainstream to use the digital currency. Circle, with stablecoin backed 1:1 by asset like USD and the founders readiness to work with regulators is envisioning it to become a mainstream digital currency. It has also worked on reducing the friction  and risk for any individual or business to use its Payments & treasury infrastructure.
@@ -71,7 +71,7 @@ Let's assess the total M2 Money supply, cryptocurrency market and global digital
 
 > [M2 US Supply](https://tradingeconomics.com/united-states/money-supply-m2)
 
-*  The global digital payments market size is expected to from USD 79.3 billion in 2020 to USD 154.1 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 14.2%. The digital payments market is expected to grow, owing to the worldwide initiatives for the promotion of digital payments, proliferation of smartphones enabling mCommerce growth, increase in eCommerce sales, and growth in internet penetration.[Global Digital payments](https://www.marketsandmarkets.com/Market-Reports/digital-payment-market-209834053.html)
+*  The global digital payments market size is expected to from USD 79.3 billion in 2020 to USD 154.1 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 14.2%. The digital payments market is expected to grow, owing to the worldwide initiatives for the promotion of digital payments, proliferation of smartphones enabling mCommerce growth, increase in eCommerce sales, and growth in internet penetration. [Global Digital payments](https://www.marketsandmarkets.com/Market-Reports/digital-payment-market-209834053.html)
 
 * The global cryptocurrency market is projected to grow from $910.3 million in 2021 to $1,902.5 million in 2028 at a CAGR of 11.1% in forecast period, 2021-2028. [Global cryptocyurrency market](https://www.fortunebusinessinsights.com/industry-reports/cryptocurrency-market-100149)
 
@@ -99,9 +99,7 @@ USDC is built on openness and accountability, enshrined in the governance and te
 - #### Technology Stack
 -- How Does Blockchain-Based DLT Work?
 
-> ![How Does Blockchain-Based DLT Work?](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/DLT.PNG)
-
-Source: (https://documents1.worldbank.org/curated/en/177911513714062215/pdf/122140-WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf)
+> ![How Does Blockchain-Based DLT Work?](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/DLT.PNG)(https://documents1.worldbank.org/curated/en/177911513714062215/pdf/122140-WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf)
 
 Circle's open source project is called Centre and is named after the Cent Routing Exchange protocol it uses. Transfers within the app take place using Centre tokens (CENT), an Ethereum token.
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
@@ -132,7 +130,7 @@ Circle is a FinTech company which covers these domains
 * Payments/Billing
 A recent study done by PWC shows 6 macro trends in payment sector driven by technology, consumer experience, consumer trust and regulations.
 
-> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend1.PNG) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
+> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend1.PNG) (https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends)
 
 In the same study the following solutions are trending,
 
@@ -145,9 +143,9 @@ Risk scoring tools use statistical models to identify possibly fraudulent transa
 - Mule account modelling tools 
 Mule accounts (those set up by a real customer but with fraudulent papers or identity to enable criminal use) can be targeted using modelling tools that find behaviour patterns in anonymous crowdsourced intelligence from millions of daily consumer activities.
 
-Another strudy done by Mckinsey evaulates the share of payment sector against other financial sectors and payments companies continue to outperform other banking sectors in value creation. 
+Another strudy done by [Mckinsey](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf) evaulates the share of payment sector against other financial sectors and payments companies continue to outperform other banking sectors in value creation. 
 
-> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend2.PNG) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend2.PNG) 
 
 As per a study done on Digital banking in 2025 (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
@@ -159,7 +157,6 @@ proportion of patent families of all the sub-categories of blockchain applicatio
 Digital Asset Holdings, nChain, Socure and Swirlds.
 
 >![Patent breakup](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/patent.PNG)
-
 
 
 * Blockchain/Cryptocurrency
@@ -184,8 +181,7 @@ Future of blockchain in finance lies in
 
 Stablecoins aim to preserve a stable value through at least two distinct mechanisms. Most commonly, stablecoin issuers purport to back stablecoins with fiat currency, assets or other cryptocurrencies; 
 these are called asset-linked stablecoins. By contrast, algorithm-based stablecoins seek to use algorithms to increase or decrease the supply of stablecoins in response to changes in demand (FSB, 2020).
-In parallel to the growth in market capitalisation (a stock measure), the use of stablecoins has increased, as seen in more transactions in stablecoins on the Bitcoin blockchain (a flow measure).[^10]
-(https://www.bis.org/publ/work905.pdf)
+In parallel to the growth in market capitalisation (a stock measure), the use of stablecoins has increased, as seen in more transactions in stablecoins on the Bitcoin blockchain ([a flow measure](https://www.bis.org/publ/work905.pdf)).
 
 > ![Stablecoin fluctuation and market capitilization](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin.PNG)
 
@@ -287,7 +283,7 @@ This can only be done digitizing the finance platforms.
 
 > ![Importance of Digital Leadership in Choice of Bank](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/citi.PNG)
 
-(https://www.citi.com/commercialbank/insights/assets/docs/2018/The-Bank-of-the-Future/files/assets/common/downloads/The%20Bank%20of%20the%20Future.pdf)
+Source: (https://www.citi.com/commercialbank/insights/assets/docs/2018/The-Bank-of-the-Future/files/assets/common/downloads/The%20Bank%20of%20the%20Future.pdf)
 
 Digital Identity will help providing gurantees that the transactions are legal, KYC norms are automatic and human less. Digital Identity will improve in implementing ownership, accountability, identification(KYC compliance) and match blockchain accounts in trustable method. This will also help in interoperability and do away of the need of multiple accounts across institutions and countries.
 
