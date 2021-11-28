@@ -83,7 +83,7 @@ controlled by banks and other regulated financial intermediaries, the blockchain
 real-time. [Digital Banking 2025](https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf)
 
 
-- #### [Value Proposition](https://www.circle.com/hubfs/investors/Circle-Investor-Presentation-July2021.pdf)
+- #### **Value Proposition** [Investor Pitch Deck](https://www.circle.com/hubfs/investors/Circle-Investor-Presentation-July2021.pdf)
 * Circles-Centre
 USDC is built on openness and accountability, enshrined in the governance and technology standards effort of CENTRE. Commercial issuers of USDC are required by CENTRE to:
 
