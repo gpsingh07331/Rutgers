@@ -44,10 +44,11 @@ Source: Circle company Linkedin
 > <img src="https://miro.medium.com/max/1400/1*uf66CpRWVtIeqmEYti7Dvw.jpeg" alt="The Three Pillars of Digital Money Viability" width="500"/> 
 
 
-To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
+To be viable the crytocurrency *see inline for types of money* must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin.PNG" alt="Types of Stable Cryptocurrencies" /> 
+> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/money.PNG" alt="Types of Stable Cryptocurrencies" /> 
+source: https://publications.iadb.org/publications/english/document/Cross-Border-Payments-with-Blockchain.pdf
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
 * blockchain records are secure and reliable
@@ -55,13 +56,14 @@ Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses abov
 * records are immutable and is decentralized 
 * enables smart contract which lowers fees as it removes third party involvment
 
-USDC is a [FIAT cryptocurrency](https://arxiv.org/ftp/arxiv/papers/2103/2103.01340.pdf) backed by USD and which provides credibility and stability, unlike other cryptocurrencies which are highly volatile.
+USDC is a [FIAT stablecoin](https://arxiv.org/ftp/arxiv/papers/2103/2103.01340.pdf) backed by USD and which provides credibility and stability, unlike other cryptocurrencies which are highly volatile.
 It is built on an open source framework with an open membership scheme that eligible Financial Institutions (FI) can participate in (CENTRE). USDC will be ERC-20 tokens minted, issued, and redeemed 
-based on network rules defined by CENTRE.
+based on network rules defined by CENTRE. *see inline for types of stablecoin*
 Circle supports open source platform with APIs and provides audit trail and is working under the jurisdiction of regulators and transmission laws.
 Users can route USDC through the markets and into and out of the global currencies at the speed of the internet and digital asset exchanges
 
-> 
+> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin.PNG" alt="Types of Stable Cryptocurrencies" /> 
+
 - #### Market segment and size
 
 
@@ -160,7 +162,7 @@ Another strudy done by [Mckinsey](https://www.mckinsey.com/~/media/mckinsey/indu
 
 > ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend2.PNG) 
 
-As per a study done on [Digital banking in 2025] (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
+As per a study done on [Digital banking in 2025](https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
 and allow for improved multi-provider processes and applications. Compared to the existing financial infrastructures that are centralized and controlled by banks and other regulated financial intermediaries, the blockchain is a decentralized approach that automatically records all clients’ transactions in real- or near real-time. 
 
@@ -212,6 +214,7 @@ It is also observed that in future crypto and algorthim based cryptocurrency wil
 #### Competition
 The top six FIAT backed stablecoins in the crypto market:
 
+--------------------------------------------------------------------
 |Currency | Market value | 24-hour trade volume | Trade to value ratio
 -----------------------------------------------------------------------
 Tether / USDT | $ 73.32 billion | $ 91.85 billion | 125.3 %
