@@ -14,7 +14,7 @@ A fundamental building block of this vision is the tokenization of fiat currency
 The word cryptocurrency itself creates attention and anxiety as the likes of bitcoin did, regulations, scams etc deterred the mainstream to use the digital currency. Circle, with stablecoin backed 1:1 by asset like USD and the founders readiness to work with regulators is envisioning it to become a mainstream digital currency. It has also worked on reducing the friction  and risk for any individual or business to use its Payments & treasury infrastructure.
 
 
-Circle is privately owned funded by private quity. Circle has raised a total of $711M in funding over 10 rounds. Circle is funded by 39 investors. Pillar VC and Atlas Merchant Capital are the most recent investors, 
+Circle is privately owned funded by private equity. Circle has raised a total of $711M in funding over 10 rounds. Circle is funded by 39 investors. Pillar VC and Atlas Merchant Capital are the most recent investors, 
 
 > Source: https://www.crunchbase.com/organization/circle-2/company_financials
 
