@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 ## **Overview**
-<div class="alert alert-block alert-info">
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 
 Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable money transfer.<br>
 [Jeremy Allaire](https://www.linkedin.com/in/jeremyallaire/) and [Sean Neville](https://www.linkedin.com/in/seanneville/) founded Circle in 2013. $140 million from investors including Jim Breyer (Facebook), Goldman Sachs, IDG Capital (Baidu, Tencent), General Catalyst (AirBnB, Snapchat) and     Accel Partners backs the company, with its headquarters in Boston, and branches in New York, San Francisco, Dublin, London, and Hong Kong
@@ -25,9 +25,12 @@ Circle recently completed $440 Million Financing to Drive Growth and Market Expa
 
 > Source:https://www.prnewswire.com/news-releases/circle-completes-440-million-financing-to-drive-growth-and-market-expansion-301301850.html
 
-
+</div>
 
 ## **Business Activities**
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #C8E3FE; border-color: #bce8f1;">
+
 
 - #### Problem and solution
 
@@ -123,7 +126,10 @@ Based on the Job openings in Circle's career section, we can get a hint of techn
 > [Token Design](https://github.com/centrehq/centre-tokens/blob/master/doc/tokendesign.md)
 
 </div>   
+
 ## **Landscape**
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 
 Circle is a FinTech company which covers these domains
 - Payments/Billing
@@ -223,7 +229,11 @@ Some of the alternatives who are providing Payments & treasury infrastructure fo
 - [Lithic](https://lithic.com)
 - [Sila](https://sila.com)
 
+</div>
+
 ## **Results**
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #C8E3FE; border-color: #bce8f1;">
 
 #### Business Impact 
 The key forces which is going to define Finance are
@@ -260,9 +270,12 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 > ![Value](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/value.PNG)
 
 
+</div>
 
 ## **Recommendations**
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+    
 ##### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 USDC is cenrally controlled contrary to the vision of the creator of blockchain for it to be decentralized. Crypto and Algorthim based cryptocurrencies are other options but are not stable enough. 
 To expand to other markets I would recommend them to do research in non-fiat backed currencies. Also, they are currently only offering currency backed by a single currency unlike Libra which provides options to be backed by multiple currencies and a pool of different currencies. 
@@ -307,3 +320,5 @@ Mobile platform as more and more consumers prefer realtime instant interaction.
 
 So far sompanies have employed blockchain or AI as standalone technologies to solve a particular problem but the future lies in combining these two to solve each individual problem.
 Combining these two can help improve in customer support with persionalized and frictionless [customer engagement](https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/?sh=7fa62cf370c6), increase speed of transaction with improved decisions, [improve security and trust](https://techwave.net/blockchain-and-ai-the-advantages-of-merging-technologies/),[Optimizing energy consumption](https://intellias.com/five-benefits-of-combining-ai-and-blockchain/) and[Improving Standardization, Privacy, Security, and Scalability of Data](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
+
+    </div>
