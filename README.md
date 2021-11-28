@@ -27,8 +27,10 @@ Circle recently completed $440 Million Financing to Drive Growth and Market Expa
 
 > Source:https://www.prnewswire.com/news-releases/circle-completes-440-million-financing-to-drive-growth-and-market-expansion-301301850.html
 
-</div>
+
 </span>
+</div>
+
 ## **Business Activities**
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #C8E3FE; border-color: #bce8f1;">
