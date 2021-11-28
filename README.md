@@ -1,4 +1,4 @@
-![Circle](images/circle.jpg) -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
+![Circle](https://github.com/gpsingh07331/Rutgers/tree/main/images/circle.png) -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 
 ## **Overview and Funding**
@@ -38,7 +38,7 @@ Source: Circle company Linkedin
 To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> ![Types of Cryptocurrencies](/images/stablecoin.png)
+> ![Types of Cryptocurrencies](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
 
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
@@ -93,9 +93,9 @@ USDC is built on openness and accountability, enshrined in the governance and te
 - Support fungible exchange and redemption of USDC tokens from other authorized issuer members
 - Meet other reporting and review requirements established by CENTRE.
 
-> ![Circle platform foundation](/images/VP1.png)
+> ![Circle platform foundation](https://github.com/gpsingh07331/Rutgers/tree/main/images/VP1.png)
 
-> ![Circle Unique advantage](/images/VP2.png)
+> ![Circle Unique advantage](https://github.com/gpsingh07331/Rutgers/tree/main/images/VP2.png)
 
 
 - #### Technology Stack
