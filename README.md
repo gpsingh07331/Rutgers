@@ -44,7 +44,7 @@ Source: Circle company Linkedin
 > <img src="https://miro.medium.com/max/1400/1*uf66CpRWVtIeqmEYti7Dvw.jpeg" alt="The Three Pillars of Digital Money Viability" width="500"/> 
 
 
-To be viable the crytocurrency *see inline for types of money* must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
+To be viable the crytocurrency, *see inline for types of money*, must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
 > <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/money.PNG" alt="Types of Stable Cryptocurrencies" /> 
@@ -327,3 +327,16 @@ So far sompanies have employed blockchain or AI as standalone technologies to so
 Combining these two can help improve in customer support with persionalized and frictionless [customer engagement](https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/?sh=7fa62cf370c6), increase speed of transaction with improved decisions, [improve security and trust](https://techwave.net/blockchain-and-ai-the-advantages-of-merging-technologies/),[Optimizing energy consumption](https://intellias.com/five-benefits-of-combining-ai-and-blockchain/) and[Improving Standardization, Privacy, Security, and Scalability of Data](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
 
 </div>
+
+## References
+- [Circle announcement](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
+- [Circle Financials - Crunchbase](https://www.crunchbase.com/organization/circle-2/company_financials)
+- [Circle latest fund raising - PRNEWSWIRE](https://www.prnewswire.com/news-releases/circle-completes-440-million-financing-to-drive-growth-and-market-expansion-301301850.html)
+- [Cross border payments with blockchain](https://publications.iadb.org/publications/english/document/Cross-Border-Payments-with-Blockchain.pdf)
+- [Types of Stablecoin](https://arxiv.org/ftp/arxiv/papers/2103/2103.01340.pdf)
+- [Digital Banking 2025](https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf)
+- [PWC Payment macro trens study](https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends)
+- [CENTER Whitepaper](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf)
+- [How Does Blockchain-Based DLT Work?](https://documents1.worldbank.org/curated/en/177911513714062215/pdf/122140-WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf)
+- [Use-cases for Blockchain and DLT](https://ctsp.berkeley.edu/files/2017/08/CTSP-Blockchain-Policy-Whitepaper.pdf)
+- [Importance of Digital Leadership in Choice of Bank](https://www.citi.com/commercialbank/insights/assets/docs/2018/The-Bank-of-the-Future/files/assets/common/downloads/The%20Bank%20of%20the%20Future.pdf)
