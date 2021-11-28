@@ -249,11 +249,7 @@ Circle is principal developer of USD Coin (USDC) which is backed by USD 1:1 and 
 As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf) white paper, use of blockchain provides "the benefit of a transparent distributed mechanism for managing trusted updates to shared data among parties who have varying degrees of trust between one another; and a transferable store of value that is not tied to the policy of an issuing sovereign, but rather value based on the processing power, work, stake, and markets that support it."
 
 
-
-#### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? How is your company performing relative to competitors 
-#### in the same domain?
-
-* Market Capitilization - Market cap is used to size up corporations and understand their aggregate market value.
+##### Market Capitilization - Market cap is used to size up corporations and understand their aggregate market value.
 
 > ![MCap](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin1.PNG)
 
@@ -321,4 +317,4 @@ Mobile platform as more and more consumers prefer realtime instant interaction.
 So far sompanies have employed blockchain or AI as standalone technologies to solve a particular problem but the future lies in combining these two to solve each individual problem.
 Combining these two can help improve in customer support with persionalized and frictionless [customer engagement](https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/?sh=7fa62cf370c6), increase speed of transaction with improved decisions, [improve security and trust](https://techwave.net/blockchain-and-ai-the-advantages-of-merging-technologies/),[Optimizing energy consumption](https://intellias.com/five-benefits-of-combining-ai-and-blockchain/) and[Improving Standardization, Privacy, Security, and Scalability of Data](https://www.frontiersin.org/articles/10.3389/fbloc.2020.522600/full)
 
-    </div>
+</div>
