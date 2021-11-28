@@ -1,4 +1,4 @@
-![Circle](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAfCAMAAADqQKKPAAABBVBMVEX///84MU42LkwsI0UxKUmFgZBFP1lMRl9XUWhkX3T7+/zGxMs3L09STWQzK0owJ0knHUKplPZ9eYl+rftR4qVQ46FY3sNpZHiloq1va31zrvwjGD+dmqaYnvjk+vFT4qtV4LRb3c3R6v/z8vSSjpxS2tVluv63tb7Y19w/OFRg29vo5+pi2ex0qPtm2POHqPqKofmhmfekjfa08NqC6MRq5q+d7sfE9N7E8+Zm47xE4pmF6rxx5MZK3by27+ak7Nvp+vqY0f554tuJ58/P8/PD4v8OADOW596u2f6d5u3k8f953+m71v237fGixf1+3vPCx/rd4P28vfqlr/rP0fvu6v29s/j565dgAAAD1ElEQVRIib2WaXuaQBSFZ1gUUQE1ccHEmCAquMWkppqlpa1dYlNrQPP/f0rvzLCI0TTP08bzQWA48HLvHAYRClW7fDc6OTgYXb1He9R4Uq+f1E8AfHh9fVPbE7V2e1cHnQD38OAQyFd7wY7vQPX6u8vL95dXo0PQ9WgPJX8oFot3t+PgsHZDwDdvjh2fnhaLH9cGbqDVB2+OdU5BfrEO6e4EsjVC6OzTptMwjNfd8lXGz6aPrX0pQrYmE0gXwTabZ7F7HUkZIZNsdOhRI1mi20oySySJnR1GMZkKz7SZGQQXT03T/E5Gv7BwEQEWNUFr2FZGwJyiYIUvk8OUYslkm8CYI1K0VmhUqVFQqTHLqeE90hrmBCYo1zZtWjYJlw8mx1+b6wWXq1iw8g0xoeJvacLlEpSbxFYJlBWsapsZtbhRwpmIy+NSnqqBHNO2f8HYdxquaW18W58wF3DDGU5rFt+goJaWRzFughqOVK6y1Rjn8ulg/5dtk3KnJFwOHRk7aEaAP9YancWsa6COvI0LOyrb8KERvcS9t+3PpFwzwIJmuj6DX+DOwomJ0oG2cit0HqGTG8Zd3J9d0mYZwvUhPK/r+gOMRRPcUKILtnPlDN0RnxnjXDU82+12gevYphmWi+a6Pkd0gr+ygRJWo/dkkysbhtxJcbS/KaxtGONcK6OCNCni2lu4evNHcPFuLtaq1aqGVdpfyMHGirHBpe+Rmljj2tOIW/Dr1f16Kxy/m8vzPLY40W/My/Vy+SMieNd/d7v3MLTONXqFHplfmOZgfgWhHL9dxE220+lEcPPnxp157nd/kg19if1yB4UedOtMp7EmamuYLU9buFn4LavCUWBMxI27uNN+v+tAo6HaxSMZkOeDwYC0GWY5fH9LHFsWQK3Ocy6kWTP851Hixl1cud/v39M99/jYWyzd83PgyqzN88DVUbGSTctIbleqVucZF5UFpREapcBovMBFvwHsEOzwmOgcNCDtfejpvVl0icph3pISPIfpQrzBlYUgUIERNlqbci2JfIGSLbqq+F8kCL8DXGiym2NcIHvkOWe9QiEslxSS0hT63ZHo+i/x/vdIZetGWePzW41JgX2CqhCAdJVTwu8RFHxPscPh8smDVq9oAQMI1wytq91ISSnRb1Qrz4JUzrP8yqJY3m4UmfLwFB0xELlYhiS7F8BdRYwZzPHgAb21AJtbxy5JuOa7/f9JBmBzOXfF3jxj6ZFwvT0WoVWOkC9ynut63pCGerEHLMyxe0HIkC2Wam/192v+j1ZPIXnoPe6LytDLxdOTu3h85Z/kf9IfrFaG6noC1KgAAAAASUVORK5CYII=) -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
+![Circle](images/circle.jpg) -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 
 ## **Overview and Funding**
@@ -15,7 +15,7 @@ A fundamental building block of this vision is the tokenization of fiat currency
 The word cryptocurrency itself creates attention and anxiety as the likes of bitcoin did, regulations, scams etc deterred the mainstream to use the digital currency. Circle, with stablecoin backed 1:1 by asset like USD and the founders readiness to work with regulators is envisioning it to become a mainstream digital currency. It has also worked on reducing the friction  and risk for any individual or business to use its Payments & treasury infrastructure.
 
 
-Circle is privately owned funded by private quity.[^1]. Circle has raised a total of $711M in funding over 10 rounds. Circle is funded by 39 investors. Pillar VC and Atlas Merchant Capital are the most recent investors, 
+Circle is privately owned funded by private quity. Circle has raised a total of $711M in funding over 10 rounds. Circle is funded by 39 investors. Pillar VC and Atlas Merchant Capital are the most recent investors, 
 
 > Source: https://www.crunchbase.com/organization/circle-2/company_financials
 
@@ -38,7 +38,7 @@ Source: Circle company Linkedin
 To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> ![Types of Cryptocurrencies](images/stablecoin.png)
+> ![Types of Cryptocurrencies](/images/stablecoin.png)
 
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
@@ -93,9 +93,9 @@ USDC is built on openness and accountability, enshrined in the governance and te
 - Support fungible exchange and redemption of USDC tokens from other authorized issuer members
 - Meet other reporting and review requirements established by CENTRE.
 
-> ![Circle platform foundation](images/VP1.png)
+> ![Circle platform foundation](/images/VP1.png)
 
-> ![Circle Unique advantage](images/VP2.png)
+> ![Circle Unique advantage](/images/VP2.png)
 
 
 - #### Technology Stack
@@ -132,7 +132,7 @@ Circle is a FinTech company which covers these domains
 * Payments/Billing
 A recent study done by PWC shows 6 macro trends in payment sector driven by technology, consumer experience, consumer trust and regulations.
 
-> ![Payment Macro Trends](images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
+> ![Payment Macro Trends](/images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
 
 In the same study the following solutions are trending,
 
@@ -147,7 +147,7 @@ Mule accounts (those set up by a real customer but with fraudulent papers or ide
 
 Another strudy done by Mckinsey evaulates the share of payment sector against other financial sectors and payments companies continue to outperform other banking sectors in value creation. 
 
-> ![Payment Macro Trends](images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+> ![Payment Macro Trends](/images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
 
 As per a study done on Digital banking in 2025 (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
@@ -158,7 +158,7 @@ The sub-category of blockchain payment and transaction systems includes patents 
 proportion of patent families of all the sub-categories of blockchain applications, with 61% (1,142 patent familes). Typical examples of patents in this sub-category are held by 
 Digital Asset Holdings, nChain, Socure and Swirlds.
 
->![Patent breakup](images//patent.png)
+>![Patent breakup](/images//patent.png)
 
 
 
@@ -187,7 +187,7 @@ these are called asset-linked stablecoins. By contrast, algorithm-based stableco
 In parallel to the growth in market capitalisation (a stock measure), the use of stablecoins has increased, as seen in more transactions in stablecoins on the Bitcoin blockchain (a flow measure).[^10]
 (https://www.bis.org/publ/work905.pdf)
 
-> ![Stablecoin fluctuation and market capitilization](images/stablecoin.png)
+> ![Stablecoin fluctuation and market capitilization](/images/stablecoin.png)
 
 A study done by PWC, [Stable Coin evolution and market trends](https://www.pwc.com.au/pdf/stable-coin-evolution-and-market-trends.pdf) observes that 
 - Price stability
@@ -246,19 +246,19 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 
 * Market Capitilization - Market cap is used to size up corporations and understand their aggregate market value.
 
-> ![MCap](images/stablecoin1.png)
+> ![MCap](/images/stablecoin1.png)
 
 ##### Growth 
 - The compound annual growth rate [CAGR](https://www.investopedia.com/terms/c/cagr.asp) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment’s life span.
 - [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)
 
-> ![Growth](images/CAGR.png)
+> ![Growth](/images/CAGR.png)
 
 
 ##### Valuation
 - [Enterprise-Value-to-Revenue (EV/R) Multiple](https://www.investopedia.com/terms/e/ev-revenue-multiple.asp)
 
-> ![Value](images/value.png)
+> ![Value](/images/value.png)
 
 
 
@@ -285,7 +285,7 @@ Financial industry so far has been centralized, low transparency, high cost, slo
 Building trust and transparency with a sense of purpose which the post baby boomers will be looking for and so shall be the regulators. 
 This can only be done digitizing the finance platforms.
 
-> ![Importance of Digital Leadership in Choice of Bank](images/citi.png)
+> ![Importance of Digital Leadership in Choice of Bank](/images/citi.png)
 
 (https://www.citi.com/commercialbank/insights/assets/docs/2018/The-Bank-of-the-Future/files/assets/common/downloads/The%20Bank%20of%20the%20Future.pdf)
 
@@ -303,7 +303,7 @@ Aritificial Intelligence such as genetic adaptable algorithm to identify risks, 
 Cognitive computing to get insigths into behavior of consumers and impact of outside factors like news ets.
 Mobile platform as more and more consumers prefer realtime instant interaction.
 
->![Some Terminologies and Methodologies](images/tech.png)
+>![Some Terminologies and Methodologies](/images/tech.png)
 
 * Why are these technologies appropriate for your solution?
 
