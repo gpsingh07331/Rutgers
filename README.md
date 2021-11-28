@@ -4,7 +4,7 @@
 <div markdown="1" class="tip" style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 
 <span style="display:block" class="note">
-------
+
 Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable money transfer.<br>
 [Jeremy Allaire](https://www.linkedin.com/in/jeremyallaire/) and [Sean Neville](https://www.linkedin.com/in/seanneville/) founded Circle in 2013. $140 million from investors including Jim Breyer (Facebook), Goldman Sachs, IDG Capital (Baidu, Tencent), General Catalyst (AirBnB, Snapchat) and     Accel Partners backs the company, with its headquarters in Boston, and branches in New York, San Francisco, Dublin, London, and Hong Kong
 
@@ -27,7 +27,7 @@ Circle recently completed $440 Million Financing to Drive Growth and Market Expa
 
 > Source:https://www.prnewswire.com/news-releases/circle-completes-440-million-financing-to-drive-growth-and-market-expansion-301301850.html
 
------
+
 </span>
 </div>
 
