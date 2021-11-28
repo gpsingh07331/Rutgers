@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
+<img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 ## **Overview and Funding**
     
