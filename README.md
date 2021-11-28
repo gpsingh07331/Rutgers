@@ -132,7 +132,7 @@ Circle is a FinTech company which covers these domains
 * Payments/Billing
 A recent study done by PWC shows 6 macro trends in payment sector driven by technology, consumer experience, consumer trust and regulations.
 
-> ![Payment Macro Trends](/images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
+> ![Payment Macro Trends](https://github.com/gpsingh07331/Rutgers/tree/main/images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
 
 In the same study the following solutions are trending,
 
@@ -147,7 +147,7 @@ Mule accounts (those set up by a real customer but with fraudulent papers or ide
 
 Another strudy done by Mckinsey evaulates the share of payment sector against other financial sectors and payments companies continue to outperform other banking sectors in value creation. 
 
-> ![Payment Macro Trends](/images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+> ![Payment Macro Trends](https://github.com/gpsingh07331/Rutgers/tree/main/images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
 
 As per a study done on Digital banking in 2025 (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
@@ -158,7 +158,7 @@ The sub-category of blockchain payment and transaction systems includes patents 
 proportion of patent families of all the sub-categories of blockchain applications, with 61% (1,142 patent familes). Typical examples of patents in this sub-category are held by 
 Digital Asset Holdings, nChain, Socure and Swirlds.
 
->![Patent breakup](/images//patent.png)
+>![Patent breakup](https://github.com/gpsingh07331/Rutgers/tree/main/images/patent.png)
 
 
 
@@ -187,7 +187,7 @@ these are called asset-linked stablecoins. By contrast, algorithm-based stableco
 In parallel to the growth in market capitalisation (a stock measure), the use of stablecoins has increased, as seen in more transactions in stablecoins on the Bitcoin blockchain (a flow measure).[^10]
 (https://www.bis.org/publ/work905.pdf)
 
-> ![Stablecoin fluctuation and market capitilization](/images/stablecoin.png)
+> ![Stablecoin fluctuation and market capitilization](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
 
 A study done by PWC, [Stable Coin evolution and market trends](https://www.pwc.com.au/pdf/stable-coin-evolution-and-market-trends.pdf) observes that 
 - Price stability
@@ -246,19 +246,19 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 
 * Market Capitilization - Market cap is used to size up corporations and understand their aggregate market value.
 
-> ![MCap](/images/stablecoin1.png)
+> ![MCap](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin1.png)
 
 ##### Growth 
 - The compound annual growth rate [CAGR](https://www.investopedia.com/terms/c/cagr.asp) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment’s life span.
 - [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)
 
-> ![Growth](/images/CAGR.png)
+> ![Growth](https://github.com/gpsingh07331/Rutgers/tree/main/images/CAGR.png)
 
 
 ##### Valuation
 - [Enterprise-Value-to-Revenue (EV/R) Multiple](https://www.investopedia.com/terms/e/ev-revenue-multiple.asp)
 
-> ![Value](/images/value.png)
+> ![Value](https://github.com/gpsingh07331/Rutgers/tree/main/images/value.png)
 
 
 
