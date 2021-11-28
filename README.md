@@ -147,7 +147,7 @@ Another strudy done by [Mckinsey](https://www.mckinsey.com/~/media/mckinsey/indu
 
 > ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend2.PNG) 
 
-As per a study done on Digital banking in 2025 (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
+As per a study done on [Digital banking in 2025] (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
 and allow for improved multi-provider processes and applications. Compared to the existing financial infrastructures that are centralized and controlled by banks and other regulated financial intermediaries, the blockchain is a decentralized approach that automatically records all clients’ transactions in real- or near real-time. 
 
