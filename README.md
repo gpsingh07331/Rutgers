@@ -73,12 +73,12 @@ Let's assess the total M2 Money supply, cryptocurrency market and global digital
 
 *  The global digital payments market size is expected to from USD 79.3 billion in 2020 to USD 154.1 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 14.2%. The digital payments market is expected to grow, owing to the worldwide initiatives for the promotion of digital payments, proliferation of smartphones enabling mCommerce growth, increase in eCommerce sales, and growth in internet penetration.[Global Digital payments](https://www.marketsandmarkets.com/Market-Reports/digital-payment-market-209834053.html)
 
-* The global cryptocurrency market is projected to grow from $910.3 million in 2021 to $1,902.5 million in 2028 at a CAGR of 11.1% in forecast period, 2021-2028.[Global cryptocyurrency market](https://www.fortunebusinessinsights.com/industry-reports/cryptocurrency-market-100149)
+* The global cryptocurrency market is projected to grow from $910.3 million in 2021 to $1,902.5 million in 2028 at a CAGR of 11.1% in forecast period, 2021-2028. [Global cryptocyurrency market](https://www.fortunebusinessinsights.com/industry-reports/cryptocurrency-market-100149)
 
 * Blockchain: The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that 
 could spur standardization and allow for improved multi-provider processes and applications. Compared to the existing financial infrastructures that are centralized and 
 controlled by banks and other regulated financial intermediaries, the blockchain is a decentralized approach that automatically records all clients’ transactions in real- or near 
-real-time.[Digital Banking 2025](https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf)
+real-time. [Digital Banking 2025](https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf)
 
 
 - #### [Value Proposition](https://www.circle.com/hubfs/investors/Circle-Investor-Presentation-July2021.pdf)
@@ -91,9 +91,9 @@ USDC is built on openness and accountability, enshrined in the governance and te
 - Support fungible exchange and redemption of USDC tokens from other authorized issuer members
 - Meet other reporting and review requirements established by CENTRE.
 
-> ![Circle platform foundation](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/VP1.png)
+> ![Circle platform foundation](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/VP1.PNG)
 
-> ![Circle Unique advantage](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/VP2.png)
+> ![Circle Unique advantage](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/VP2.PNG)
 
 
 - #### Technology Stack
