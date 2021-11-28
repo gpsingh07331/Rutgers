@@ -1,4 +1,4 @@
- <img src="https://github.com/gpsingh07331/Rutgers/tree/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
+<img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 ## **Overview and Funding**
     
@@ -37,7 +37,7 @@ Source: Circle company Linkedin
 To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> ![Types of Cryptocurrencies](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
+> ![Types of Cryptocurrencies](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
 
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
@@ -92,15 +92,17 @@ USDC is built on openness and accountability, enshrined in the governance and te
 - Support fungible exchange and redemption of USDC tokens from other authorized issuer members
 - Meet other reporting and review requirements established by CENTRE.
 
-> ![Circle platform foundation](https://github.com/gpsingh07331/Rutgers/tree/main/images/VP1.png)
+> ![Circle platform foundation](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/VP1.png)
 
-> ![Circle Unique advantage](https://github.com/gpsingh07331/Rutgers/tree/main/images/VP2.png)
+> ![Circle Unique advantage](raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/VP2.png)
 
 
 - #### Technology Stack
 -- How Does Blockchain-Based DLT Work?
 
-> ![How Does Blockchain-Based DLT Work?](images/DLT.png)[^9](https://documents1.worldbank.org/curated/en/177911513714062215/pdf/122140-WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf)
+> ![How Does Blockchain-Based DLT Work?](raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/DLT.png)
+
+Source: (https://documents1.worldbank.org/curated/en/177911513714062215/pdf/122140-WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf)
 
 Circle's open source project is called Centre and is named after the Cent Routing Exchange protocol it uses. Transfers within the app take place using Centre tokens (CENT), an Ethereum token.
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
@@ -131,7 +133,7 @@ Circle is a FinTech company which covers these domains
 * Payments/Billing
 A recent study done by PWC shows 6 macro trends in payment sector driven by technology, consumer experience, consumer trust and regulations.
 
-> ![Payment Macro Trends](https://github.com/gpsingh07331/Rutgers/tree/main/images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
+> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/paytrend1.png) https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends
 
 In the same study the following solutions are trending,
 
@@ -146,7 +148,7 @@ Mule accounts (those set up by a real customer but with fraudulent papers or ide
 
 Another strudy done by Mckinsey evaulates the share of payment sector against other financial sectors and payments companies continue to outperform other banking sectors in value creation. 
 
-> ![Payment Macro Trends](https://github.com/gpsingh07331/Rutgers/tree/main/images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
+> ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/paytrend2.png) https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/accelerating%20winds%20of%20change%20in%20global%20payments/2020-mckinsey-global-payments-report-vf.pdf
 
 As per a study done on Digital banking in 2025 (https://www.xupery.com/wp-content/uploads/2017/08/Digital-Banking-2025.pdf),
 The blockchain, as well as other distributed ledger approaches (e.g., Ethereum) are another important digital platform development that could spur standardization 
@@ -157,7 +159,7 @@ The sub-category of blockchain payment and transaction systems includes patents 
 proportion of patent families of all the sub-categories of blockchain applications, with 61% (1,142 patent familes). Typical examples of patents in this sub-category are held by 
 Digital Asset Holdings, nChain, Socure and Swirlds.
 
->![Patent breakup](https://github.com/gpsingh07331/Rutgers/tree/main/images/patent.png)
+>![Patent breakup](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/patent.png)
 
 
 
@@ -186,7 +188,7 @@ these are called asset-linked stablecoins. By contrast, algorithm-based stableco
 In parallel to the growth in market capitalisation (a stock measure), the use of stablecoins has increased, as seen in more transactions in stablecoins on the Bitcoin blockchain (a flow measure).[^10]
 (https://www.bis.org/publ/work905.pdf)
 
-> ![Stablecoin fluctuation and market capitilization](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
+> ![Stablecoin fluctuation and market capitilization](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/stablecoin.png)
 
 A study done by PWC, [Stable Coin evolution and market trends](https://www.pwc.com.au/pdf/stable-coin-evolution-and-market-trends.pdf) observes that 
 - Price stability
@@ -245,19 +247,19 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 
 * Market Capitilization - Market cap is used to size up corporations and understand their aggregate market value.
 
-> ![MCap](https://github.com/gpsingh07331/Rutgers/tree/main/images/stablecoin1.png)
+> ![MCap](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/stablecoin1.png)
 
 ##### Growth 
 - The compound annual growth rate [CAGR](https://www.investopedia.com/terms/c/cagr.asp) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment’s life span.
 - [EBITDA](https://www.investopedia.com/terms/e/ebitda.asp)
 
-> ![Growth](https://github.com/gpsingh07331/Rutgers/tree/main/images/CAGR.png)
+> ![Growth](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/CAGR.png)
 
 
 ##### Valuation
 - [Enterprise-Value-to-Revenue (EV/R) Multiple](https://www.investopedia.com/terms/e/ev-revenue-multiple.asp)
 
-> ![Value](https://github.com/gpsingh07331/Rutgers/tree/main/images/value.png)
+> ![Value](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/value.png)
 
 
 
@@ -302,7 +304,7 @@ Aritificial Intelligence such as genetic adaptable algorithm to identify risks, 
 Cognitive computing to get insigths into behavior of consumers and impact of outside factors like news ets.
 Mobile platform as more and more consumers prefer realtime instant interaction.
 
->![Some Terminologies and Methodologies](/images/tech.png)
+>![Some Terminologies and Methodologies](https://raw.githubusercontent.com/gpsingh07331/Rutgers/tree/main/images/tech.png)
 
 * Why are these technologies appropriate for your solution?
 
