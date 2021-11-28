@@ -47,7 +47,7 @@ Source: Circle company Linkedin
 To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin.PNG" alt="Types of Cryptocurrencies" /> 
+> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/Stablecoin.PNG" alt="Types of Stable Cryptocurrencies" /> 
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
 * blockchain records are secure and reliable
@@ -55,13 +55,13 @@ Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses abov
 * records are immutable and is decentralized 
 * enables smart contract which lowers fees as it removes third party involvment
 
-USDC is a FIAT cryptocurrency backed by USD and which provides credibility and stability, unlike other cryptocurrencies which are highly volatile.
+USDC is a [FIAT cryptocurrency](https://arxiv.org/ftp/arxiv/papers/2103/2103.01340.pdf) backed by USD and which provides credibility and stability, unlike other cryptocurrencies which are highly volatile.
 It is built on an open source framework with an open membership scheme that eligible Financial Institutions (FI) can participate in (CENTRE). USDC will be ERC-20 tokens minted, issued, and redeemed 
 based on network rules defined by CENTRE.
 Circle supports open source platform with APIs and provides audit trail and is working under the jurisdiction of regulators and transmission laws.
 Users can route USDC through the markets and into and out of the global currencies at the speed of the internet and digital asset exchanges
 
-
+> 
 - #### Market segment and size
 
 
@@ -280,6 +280,8 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 USDC is cenrally controlled contrary to the vision of the creator of blockchain for it to be decentralized. Crypto and Algorthim based cryptocurrencies are other options but are not stable enough. 
 To expand to other markets I would recommend them to do research in non-fiat backed currencies. Also, they are currently only offering currency backed by a single currency unlike Libra which provides options to be backed by multiple currencies and a pool of different currencies. 
 
+    >![Value](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/crypto.PNG)
+    
 Regulations and Legal Certainties, Due to different privacy laws of how long the data can be maintained and the requirement of "to be forgotten" is something which needs to be assessed by implementors of blockchain which are supposed to have immutable records.  I would recommend that Circle provide transparency and create options to accomodate each countries data privacy law. Transparency also needs to be shown as they take on multiple roles, such as currency, platform, wallet etc.
 
 USDC is a proof of work cryptocurrency, Essentially, [proof of work](https://medium.com/bitstamp-blog/what-is-proof-of-work-18e637c9ce0c) necessitates solving a complex mathematical puzzle to create a new block of data. Solving the puzzle requires a large amount of processing power, which translates into high energy costs. Mining bitcoin and other cryptocurrencies accordingly requires significant amounts of electricity and processing power. I would recommend them to check other platforms which use proof of stake which is more climate freindly.
