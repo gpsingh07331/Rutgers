@@ -5,8 +5,8 @@
 Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable decentrilization of money transfer.
 [Jeremy Allaire](https://www.linkedin.com/in/jeremyallaire/) and [Sean Neville](https://www.linkedin.com/in/seanneville/) founded Circle in 2013. $140 million from investors including Jim Breyer (Facebook), Goldman Sachs, IDG Capital (Baidu, Tencent), General Catalyst (AirBnB, Snapchat) and     Accel Partners backs the company, with its headquarters in Boston, and branches in New York, San Francisco, Dublin, London, and Hong Kong
 
-* The foundation
-As per the Circle website, When we founded Circle five years ago, we and many in the crypto community envisioned fiat money and financial contracts executing on top of distributed public network infrastructure, building on open standards that would allow us all to share value as instantly and easily as we can access content in web browsers and exchange messages in email and messaging apps. Just as HTTPS, SMTP and SIP enabled free borderless information sharing and communications, crypto assets and blockchain technology will enable us to exchange value and transact with one another in a similar way: instantly, globally, securely and at low cost.
+- #### The foundation
+As per the Circle website, When Circle was founded five years ago, founders and many in the crypto community envisioned fiat money and financial contracts executing on top of distributed public network infrastructure, building on open standards that would allow  all to share value as instantly and easily as anyone can access content in web browsers and exchange messages in email and messaging apps. Just as HTTPS, SMTP and SIP enabled free borderless information sharing and communications, crypto assets and blockchain technology will enable us to exchange value and transact with one another in a similar way: instantly, globally, securely and at low cost.
 
 > "While announcing the launch, Circle founder Allaire said the company was working towards realizing its vision of no distinction between international and domestic money transfers." [PYMNTS.COM](https://www.pymnts.com/news/blockchain-distributed-ledger/2017/circle-launches-fee-free-blockchain-based-international-money-transfer/)
 
@@ -26,9 +26,9 @@ Circle recently completed $440 Million Financing to Drive Growth and Market Expa
 
 ## **Business Activities**
 
-- #### Problem and options
+- #### Problem and solution
 
->Circle helps businesses and developers harness the power of stablecoins for payments and internet commerce worldwide.[^3]
+> Circle helps businesses and developers harness the power of stablecoins for payments and internet commerce worldwide.
 Source: Circle company Linkedin
 
 > <img src="https://miro.medium.com/max/1400/1*uf66CpRWVtIeqmEYti7Dvw.jpeg" alt="The Three Pillars of Digital Money Viability" width="500"/> 
