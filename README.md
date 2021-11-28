@@ -215,7 +215,7 @@ It is also observed that in future crypto and algorthim based cryptocurrency wil
 The top six FIAT backed stablecoins in the crypto market:
 
 Currency | Market value | 24-hour trade volume | Trade to value ratio
----------|--------------|----------------------|----------------------|
+:--------|:-------------|:---------------------|:---------------------|
 Tether / USDT | $ 73.32 billion | $ 91.85 billion | 125.3 % |
 
 USD Coin / USDC | $ 34.35 billion | $ 5.41 billion | 15.7 % |
