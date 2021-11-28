@@ -129,7 +129,7 @@ Circle is a FinTech company which covers these domains
 - Blockchain and Cryptocurrencies
 
 #### Trends and Innovation in application of Blockchain in payment infrastructure and cryptocurrency
-* Payments/Billing
+##### **Payments/Billing** <br>
 A recent study done by PWC shows 6 macro trends in payment sector driven by technology, consumer experience, consumer trust and regulations.
 
 > ![Payment Macro Trends](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/paytrend1.PNG) (https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html#six-macro-trends)
@@ -161,7 +161,7 @@ Digital Asset Holdings, nChain, Socure and Swirlds.
 >![Patent breakup](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/patent.PNG)
 
 
-* Blockchain/Cryptocurrency
+##### **Blockchain/Cryptocurrency**
 
 [101Blockchains](https://101blockchains.com/history-of-blockchain-timeline/) has a graphic to show the timeline of blockchain technology
 
