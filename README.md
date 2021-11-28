@@ -37,7 +37,8 @@ Source: Circle company Linkedin
 To be viable the crytocurrency must establish the three pillars of digital money viability. Currently the big banks, too big too fail, control, centralize and autocrize the transfer of payments, money between individuals and businesses. There are heavy fees and low transparency with existing solution using legacy banking system. 
 Other crypto currencies lacked trust and marred by regulatory issues. 
 
-> ![Types of Cryptocurrencies](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/stablecoin.png)
+> <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/stablecoin.png" alt="Types of Cryptocurrencies" /> 
+![Types of Cryptocurrencies](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/stablecoin.png)
 
 
 Circle with payment infrastructure and stablecoin USDC (USD Coin) addresses above problems using blockchain technology  
