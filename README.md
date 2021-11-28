@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/circle.png" alt="Circle" /> -Circle USDC (USD Coin), Blockchain enabled digital currency payment platform. 
 
 ## **Overview**
-    
+<div class="alert alert-block alert-info">
+
 Circle provides a blockchain ecosystem with FIAT backed cryptocurrency to enable money transfer.<br>
 [Jeremy Allaire](https://www.linkedin.com/in/jeremyallaire/) and [Sean Neville](https://www.linkedin.com/in/seanneville/) founded Circle in 2013. $140 million from investors including Jim Breyer (Facebook), Goldman Sachs, IDG Capital (Baidu, Tencent), General Catalyst (AirBnB, Snapchat) and     Accel Partners backs the company, with its headquarters in Boston, and branches in New York, San Francisco, Dublin, London, and Hong Kong
 
@@ -121,7 +122,7 @@ Based on the Job openings in Circle's career section, we can get a hint of techn
 
 > [Token Design](https://github.com/centrehq/centre-tokens/blob/master/doc/tokendesign.md)
 
-
+</div>   
 ## **Landscape**
 
 Circle is a FinTech company which covers these domains
