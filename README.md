@@ -215,18 +215,18 @@ It is also observed that in future crypto and algorthim based cryptocurrency wil
 The top six FIAT backed stablecoins in the crypto market:
 
 Currency | Market value | 24-hour trade volume | Trade to value ratio
------------------------------------------------------------------------
-Tether / USDT | $ 73.32 billion | $ 91.85 billion | 125.3 %
+---------|--------------|----------------------|----------------------|
+Tether / USDT | $ 73.32 billion | $ 91.85 billion | 125.3 % |
 
-USD Coin / USDC | $ 34.35 billion | $ 5.41 billion | 15.7 %
+USD Coin / USDC | $ 34.35 billion | $ 5.41 billion | 15.7 % |
 
-Binance USD / BUSD | $ 13.54 billion | $ 7.01 billion | 51.8 %
+Binance USD / BUSD | $ 13.54 billion | $ 7.01 billion | 51.8 % |
 
-Dai / DAI | $ 6.47 billion | $ 671.5 million | 10.4 %
+Dai / DAI | $ 6.47 billion | $ 671.5 million | 10.4 % |
 
-TerraUSD / UST | $ 2.88 billion | $ 112.5 million | 3.9 %
+TerraUSD / UST | $ 2.88 billion | $ 112.5 million | 3.9 % |
 
-TrueUSD / TUSD | $ 1.25 billion | $ 134.9 million	10.8 %
+TrueUSD / TUSD | $ 1.25 billion | $ 134.9 million	10.8 % |
 
 > [FIAT Stablecoins](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins)
 
