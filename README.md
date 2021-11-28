@@ -262,11 +262,11 @@ As per [Centre](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whit
 
 ##### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 USDC is cenrally controlled contrary to the vision of the creator of blockchain for it to be decentralized. Crypto and Algorthim based cryptocurrencies are other options but are not stable enough. 
-To expand to other markets I would recommend them to do research in non-FIAt backed currencies. Also currently they are offering currency backed by single currency. Libra provides options to be backed by multiple currencies and a pool of different currencies. 
+To expand to other markets I would recommend them to do research in non-fiat backed currencies. Also, they are currently only offering currency backed by a single currency unlike Libra which provides options to be backed by multiple currencies and a pool of different currencies. 
 
-Regulations and Legal Certainties, Due to different privacy laws of how long the data can be maintained and the requirement of "to be forgotten" is something which need to ne assessed by implementors of blockchain which are supposed to have immutable records.  I would recommend to provide transparency and option to accomodate each countories data privacy law. Transparency also needs to be shown as they take on multiple roles, that of currency, platform, wallet etc.
+Regulations and Legal Certainties, Due to different privacy laws of how long the data can be maintained and the requirement of "to be forgotten" is something which needs to be assessed by implementors of blockchain which are supposed to have immutable records.  I would recommend that Circle provide transparency and create options to accomodate each countries data privacy law. Transparency also needs to be shown as they take on multiple roles, such as currency, platform, wallet etc.
 
-USDC is a proof of work cryptocurrency, Essentially, [proof of work](https://medium.com/bitstamp-blog/what-is-proof-of-work-18e637c9ce0c) necessitates solving a complex mathematical puzzle to create a new block of data. Solving the puzzle requires a large amount of processing power, which translates into high energy costs. Mining bitcoin and other cryptocurrencies accordingly requires significant amounts of electricity and processing power. I would recommend them to check other platforms which use prrof of stake which is more climate freindly.
+USDC is a proof of work cryptocurrency, Essentially, [proof of work](https://medium.com/bitstamp-blog/what-is-proof-of-work-18e637c9ce0c) necessitates solving a complex mathematical puzzle to create a new block of data. Solving the puzzle requires a large amount of processing power, which translates into high energy costs. Mining bitcoin and other cryptocurrencies accordingly requires significant amounts of electricity and processing power. I would recommend them to check other platforms which use proof of stake which is more climate freindly.
 
 
 
@@ -277,9 +277,8 @@ Customer Experience, Digital Identity is something which the company can work to
 
 * Why do you think that offering this product or service would benefit the company?
 
-Financial industry so far has been centralized, low transparency, high cost, slow marred with mis-trust. 
-Building trust and transparency with a sense of purpose which the post baby boomers will be looking for and so shall be the regulators. 
-This can only be done digitizing the finance platforms.
+The financial industry so far has been centralized, low transparency, high cost, slow, and marred with mis-trust. 
+Building trust and transparency with a sense of purpose is something post baby boomers and regulators will be looking for, but this can only be done digitizing the finance platforms.
 
 > ![Importance of Digital Leadership in Choice of Bank](https://raw.githubusercontent.com/gpsingh07331/Rutgers/main/images/citi.PNG)
 
@@ -287,7 +286,7 @@ Source: (https://www.citi.com/commercialbank/insights/assets/docs/2018/The-Bank-
 
 Digital Identity will help providing gurantees that the transactions are legal, KYC norms are automatic and human less. Digital Identity will improve in implementing ownership, accountability, identification(KYC compliance) and match blockchain accounts in trustable method. This will also help in interoperability and do away of the need of multiple accounts across institutions and countries.
 
-Investing risk management tools will help being in compliance with regulations and will build trust with governments and consumers by being transparent about volatility, stability and open about who is allowed and not allowed to use the system and currency. 
+Investing in risk management tools will help be in compliance with regulations and will build trust with governments and consumers by being transparent about volatility, stability, and open about who is and is not allowed to use the system and currency. 
 
 > [Use-cases for Blockchain and DLT](https://ctsp.berkeley.edu/files/2017/08/CTSP-Blockchain-Policy-Whitepaper.pdf)
 
